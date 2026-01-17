@@ -43,24 +43,27 @@ Navigate to the project folder:
 cd qr-code-generator
 Open index.html in your browser.
 
-🧪 How It Works
-Enter a valid URL in the input field
+---
 
-Click on Generate QR Code
+## 🧪 How It Works
+- Enter a valid URL in the input field
 
-The QR code is generated instantly and displayed on the screen
+- Click on Generate QR Code
 
-📈 Future Enhancements
-Add Download QR Code functionality
+- The QR code is generated instantly and displayed on the screen
 
-Support for text, email, and phone number QR codes
+---
 
-Dark / Light mode toggle
+## 📈 Future Enhancements
+- Add Download QR Code functionality
 
-Improved URL validation
+- Support for text, email, and phone number QR codes
 
-Clear / Reset button
+- Dark / Light mode toggle
 
-👨‍💻 Author
-Sharanu Patil
-Frontend Developer (Beginner)
+- Improved URL validation
+
+- Clear / Reset button
+
+## 👨‍💻 Author
+Sharanabasappa Patil
