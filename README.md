@@ -26,7 +26,7 @@ This application allows users to enter a URL and instantly generate a scannable 
 
 ## 📂 Project Structure
 
-qr-code-generator/
+qr-code-generator/<br>
 │<br>
 ├── index.html <br>
 ├── style.css <br>
@@ -38,9 +38,9 @@ qr-code-generator/
 ## 🚀 How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/sharanup593/qrcode-generator.git
-Navigate to the project folder:
-cd qr-code-generator
+   git clone https://github.com/sharanup593/qrcode-generator.git<br>
+Navigate to the project folder:<br>
+cd qr-code-generator<br>
 Open index.html in your browser.
 
 ---
